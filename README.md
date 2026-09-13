@@ -2,7 +2,7 @@
 
 Repositório com minhas anotações de leitura do livro [**AI Agents in Action (2ª ed.)**](https://www.oreilly.com/library/view/ai-agents-in/9781633434530).
 
-São notas de estudo pessoais: resumo dos conceitos com minhas próprias palavras, trade-offs que achei relevantes, dúvidas em aberto e pontos que quero aplicar em projetos reais. Não substituem o livro. Além de ler o livro, estou forçando meu senso crítico.
+São notas de estudo pessoais: resumo dos conceitos com minhas próprias palavras, trade-offs que achei relevantes, dúvidas em aberto e pontos que quero aplicar em projetos reais. Não substituem o livro. Além de ler o livro, estou forçando meu senso crítico: questionando decisões de arquitetura e mapeando onde cada padrão faz sentido.
 
 > ✍️ **Como isso é feito:** leio o capítulo, pesquiso algumas coisas e anoto à mão no meu caderno. Depois fotografo as páginas e passo pro Claude transcrever e organizar em Markdown, pra ficar documentado e pesquisável aqui. O conteúdo é meu, a IA só estrutura.
 
