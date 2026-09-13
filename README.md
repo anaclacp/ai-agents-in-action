@@ -1,6 +1,6 @@
 # 📓 Anotações de AI Agents in Action (2ª edição)
 
-Repositório com minhas anotações de leitura do livro **AI Agents in Action (2ª ed.)**.
+Repositório com minhas anotações de leitura do livro [**AI Agents in Action (2ª ed.)**](https://www.oreilly.com/library/view/ai-agents-in/9781633434530).
 
 São notas de estudo pessoais: resumo dos conceitos com minhas próprias palavras, trade-offs que achei relevantes, dúvidas em aberto e pontos que quero aplicar em projetos reais. Não substituem o livro. Além de ler o livro, estou forçando meu senso crítico.
 
@@ -63,4 +63,4 @@ Uso um sistema de marcadores para separar o tipo de informação:
 
 ## 📚 Referência
 
-> **AI Agents in Action**, 2ª edição — Manning Publications.
+> [**AI Agents in Action**, 2ª edição](https://www.oreilly.com/library/view/ai-agents-in/9781633434530) — Manning Publications.
